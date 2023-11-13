@@ -1,4 +1,4 @@
 # Registration-form
 It is a registration form done in html and css <br>
-In the registration form the can fill his or her details
+In the registration form the user can fill his or her details<br>
 
